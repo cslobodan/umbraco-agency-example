@@ -1,0 +1,53 @@
+﻿<umb-box>
+    <umb-box-header title="Xliff File Connector">
+    </umb-box-header>
+    <umb-box-content>
+        <p>
+            The Xliff file Connector saves and reads XLIFF format files to disk.
+        </p>
+        <p>
+            You can download and upload the files via the back office - within a submitted
+            job, but you can just copy the files directly in and out of the folder and that
+            will work also.
+        </p>
+        <p>
+            <em>The default folder location for translation files is /media/xliff_translations</em>
+        </p>
+    </umb-box-content>
+
+    <umb-box-content>
+        <div class="form-horizontal">
+            <umb-control-group label="Folder" description="location where files are saved">
+                <input type="text" ng-model="vm.settings.folder" class="umb-textstring textstring umb-property-editor" />
+            </umb-control-group>
+
+            <umb-control-group label="Format" description="Format for extracted files">
+                <select class="umb-dropdown umb-property-editor"
+                        name="provider"
+                        ng-model="vm.settings.format">
+                    <option value="xliff.1.2">Xliff 1.2</option>
+                    <option value="xliff.2.0">Xliff 2.0</option>
+                </select>
+
+            </umb-control-group>
+
+            <umb-control-group label="Extension" description="file extension to save the file (default xlf), if you change this you might need to update umbraco other iis settings to allow download of the file">
+                <input type="text" ng-model="vm.settings.extension" class="umb-textstring textstring umb-property-editor" />
+            </umb-control-group>
+
+            <umb-control-group label="Split Html" description="Split the HTML into chunks within the Xliff File (v2.0 only)">
+                <umb-toggle checked="vm.settings.split"
+                            on-click="vm.settings.split = !vm.settings.split">
+                </umb-toggle>
+
+            </umb-control-group>
+
+            <umb-control-group label="Overwrite Blank Targets" description="When a target value is blank (but the source is not) copy the source value to target">
+                <umb-toggle checked="vm.settings.blankTarget"
+                            on-click="vm.settings.blankTarget = !vm.settings.blankTarget">
+                </umb-toggle>
+            </umb-control-group>
+
+        </div>
+    </umb-box-content>
+</umb-box>

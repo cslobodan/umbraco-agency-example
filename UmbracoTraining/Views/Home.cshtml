@@ -1,0 +1,13 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+@{
+    Layout = "base.cshtml";
+}
+
+<!-- Banner -->
+@{ Html.RenderAction("RenderBanner", "Home"); }
+
+<!-- Section 1 -->
+@{ Html.RenderAction("RenderSection1", "Home"); }
+
+<!-- Section 2 -->
+@{ Html.RenderAction("RenderSection2", "Home"); }

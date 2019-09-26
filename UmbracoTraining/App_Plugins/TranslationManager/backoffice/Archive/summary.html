@@ -1,0 +1,37 @@
+﻿<div ng-controller="translateSummaryArchiveController as vm"> 
+    <umb-editor-view footer="false">
+        <umb-editor-header name="'Archived Jobs'"
+                           name-locked="true"
+                           hide-icon="true"
+                           hide-alias="true"
+                           description="'Translation jobs that have been completed or archived'"
+                           description-locked="true">
+        </umb-editor-header>
+        <umb-editor-container>
+            <umb-load-indicator ng-if="vm.loading"></umb-load-indicator>
+
+            <div ng-if="!vm.loading">
+                <div ng-if="vm.info.length > 0">
+                    <div class="tm-lang-boxes">
+                        <div class="tm-lang-box" ng-repeat="item in vm.info"
+                             ng-click="vm.viewJobs(item.Id)">
+                            <umb-box>
+                                <umb-box-header title="{{item.DisplayName}}"
+                                                description="{{item.Name}}"></umb-box-header>
+                                <umb-box-content>
+                                    {{item.Count}} Jobs items
+                                </umb-box-content>
+                            </umb-box>
+                        </div>
+                    </div>
+                </div>
+                <umb-empty-state position="center" ng-if="vm.info.length == 0">
+                    <h5>No Jobs</h5>
+                    <p>
+                        There are no Jobs in the archive
+                    </p>
+                </umb-empty-state>
+            </div>
+        </umb-editor-container>
+    </umb-editor-view>
+</div>

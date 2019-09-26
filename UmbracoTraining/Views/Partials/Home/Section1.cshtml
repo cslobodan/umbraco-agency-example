@@ -1,0 +1,16 @@
+﻿@inherits UmbracoViewPage
+<section id="one">
+    <div class="inner">
+        <header>
+            <h2>@Umbraco.AssignedContentItem.Value("welcomeTitle")</h2>
+        </header>
+        <p>@Umbraco.AssignedContentItem.Value("welcomeSummary")</p>
+        <ul class="actions">
+            <li>
+                <a href="@Umbraco.AssignedContentItem.Value("welcomeLink")" class="button alt">
+                    @Umbraco.AssignedContentItem.Value("welcomeLinkTitle")
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>

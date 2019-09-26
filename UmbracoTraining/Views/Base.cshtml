@@ -1,0 +1,37 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+@{
+    Layout = null;
+}
+
+@* the fun starts here *@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Umbraco Website</title>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round|Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link href="~/css/main.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Header -->
+    @{ Html.RenderAction("RenderHeader", "SiteSharedLayout"); }
+    <a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+
+    @RenderBody()
+
+
+    <!-- Footer -->
+    @{ Html.RenderAction("RenderFooter", "SiteSharedLayout"); }
+
+
+    <!-- Scripts -->
+    <script src="~/scripts/jquery.min.js"></script>
+    <script src="~/scripts/skel.min.js"></script>
+    <script src="~/scripts/util.js"></script>
+    <script src="~/scripts/main.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,39 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+@{
+    Layout = "base.cshtml";
+}
+
+@* the fun starts here *@
+<section id="three">
+    <div class="inner">
+        <article>
+            <div class="content">
+                <span class="icon fa-laptop"></span>
+                <header>
+                    <h3>@Umbraco.AssignedContentItem.Value("articeOneTitle")</h3>
+                </header>
+                <p>@Umbraco.AssignedContentItem.Value("articleOneBody")</p>
+            </div>
+        </article>
+        <article>
+            <div class="content">
+                <span class="icon fa-laptop"></span>
+                <header>
+                    <h3>@Umbraco.AssignedContentItem.Value("articleTwoTitle")</h3>
+                </header>
+                <p>@Umbraco.AssignedContentItem.Value("articleTwoBody")</p>
+            </div>
+        </article>
+        <article>
+            <div class="content">
+                <span class="icon fa-gamepad"></span>
+                <header>
+                    <h3>@Umbraco.AssignedContentItem.Value("articleThreeTitle")</h3>
+                </header>
+                <p>@Umbraco.AssignedContentItem.Value("articleThreeBody")</p>
+            </div>
+        </article>
+    </div>
+</section>
+
+

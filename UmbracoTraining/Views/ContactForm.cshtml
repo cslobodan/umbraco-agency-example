@@ -1,0 +1,19 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.ContactForm>
+@using ContentModels = Umbraco.Web.PublishedModels;
+@{
+    Layout = "base.cshtml";
+}
+
+
+@if (TempData["ContactUsSuccess"] != null && (bool)TempData["ContactUsSuccess"])
+{
+    <section id="banner" style="background-color:grey">
+        <div class="inner">
+            @Umbraco.AssignedContentItem.Value("contactFormSuccessMessage")
+        </div>
+    </section>
+}
+else
+{
+    Html.RenderAction("RenderContactForm", "ContactForm");
+}

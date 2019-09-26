@@ -1,0 +1,20 @@
+﻿<div ng-controller="translateXliffPendingController as pvm">
+    <umb-box>
+        <umb-box-header title="xliff options"
+                        description="Save job in Xliff Format"></umb-box-header>
+        <umb-box-content>
+            <div><strong>Format :</strong> {{vm.settings.format}}</div>
+            <div><strong>Location :</strong> {{vm.settings.folder}}</div>
+            <div><strong>Extension :</strong> {{vm.settings.extension}}</div>
+            <div>
+                <strong>Splitting : </strong>
+                <span ng-if="vm.settings.split">
+                    Html will be split in translation
+                </span>
+                <span ng-if="!vm.settings.split">
+                    Html will not be split
+                </span>
+            </div>
+        </umb-box-content>
+    </umb-box>
+</div>

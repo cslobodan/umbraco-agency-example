@@ -1,0 +1,14 @@
+﻿@inherits UmbracoViewPage
+<section id="banner" style="background-image: url(@Umbraco.AssignedContentItem.Value("introductionBanner"))">
+    <div class="inner">
+        <h1>
+            @Umbraco.AssignedContentItem.Value("introductionTitle")
+        </h1>
+        <ul class="actions">
+            <li><a href="@Umbraco.AssignedContentItem.Value("introductionLinkUrl")" class="button alt">
+                    @Umbraco.AssignedContentItem.Value("introductionLinkTitle")
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language alias="en" intName="English (US)" localName="English (US)" lcid="" culture="en-US">
+  <creator>
+    <name>Jumoo</name>
+    <link>http://jumoo.uk</link>
+  </creator>
+  <area alias="treeHeaders">
+    <key alias="translationGroup">Translations</key>
+    <key alias="jobs">Translation Jobs</key>
+  </area>
+
+  <area alias="sections">
+    <key alias="translatePlus">Translation Manager</key>
+    <key alias="translationManager">Translation Manager</key>
+  </area>
+
+  <area alias="actions">
+    <key alias="manageTranslations">View Translations 'Content App'</key>
+  </area>
+  <area alias="actionCategories">
+    <key alias="translation">Translations</key>
+  </area>
+  <area alias="actionDescriptions">
+    <key alias="manageTranslations">View translations directly on a node</key>
+  </area>
+
+  <area alias="translate">
+    <key alias="product">Translation Manager</key>
+    
+    <key alias="providers">Connectors</key>
+    
+    <key alias="translation">Translation</key>
+    <key alias="translations">Translations</key>
+    <key alias="awaiting">Content awaiting translation</key>
+
+    <key alias="createNew">Create new translation...</key>
+    <key alias="createJob">Create Translation Job</key>
+    <key alias="autoSend">Submit the translation job now</key>
+
+    <key alias="pending">Pending</key>
+    <key alias="pendingDescription">Translation items currently pending</key>
+
+    <key alias="inprogress">In Progress</key>
+    <key alias="inProgressDescription">Translations jobs in progress</key>
+    
+    <key alias="submitted">Submitted</key>
+    <key alias="received">Received</key>
+    <key alias="reviewing">Reviewing</key>
+    <key alias="archive">Archive</key>
+    <key alias="upload">Upload file</key>
+
+    <key alias="set">Set</key>
+    <key alias="source">Source</key>
+    <key alias="target">Target</key>
+    <key alias="current">Current language text</key>
+    <key alias="provider">Connector</key>
+    <key alias="nodes">Nodes</key>
+    <key alias="status">Status</key>
+    <key alias="content">Content</key>
+    <key alias="updated">Updated</key>
+    <key alias="properties">Properties</key>
+    <key alias="novalue">No existing value</key>
+    <key alias="send">Send</key>
+    <key alias="get">Get Translations</key>
+    <key alias="translated">Translated</key>
+    <key alias="progress">Progress</key>
+
+    <!-- content app page -->
+    <key alias="translations">Translations</key>
+   
+    <key alias="languages">Languages</key>
+    <key alias="languagesDesc">Current translations for this content</key>
+
+    <key alias="sets">Sets</key>
+    <key alias="setsDesc">Translation sets that this page belongs to</key>
+
+    <key alias="stats">Translation Stats</key>
+    <key alias="statsDesc">Information on what is being translated</key>
+
+    <key alias="errorTitle">Something has gone wrong</key>
+
+    <key alias="languagesSelect">Select the languages you want to translate to</key>
+
+    <key alias="properties">Properties</key>
+    <key alias="wordEstimate">Estimated Words*</key>
+    <key alias="charEstimate">Estimated characters*</key>
+    <key alias="estimateDisclaim">
+      *counts are based on translatable properties: final counts may differ depending on translation service
+    </key>
+
+    <!-- job page -->
+    <key alias="approvePublish">Approve &amp; Publish</key>
+    <key alias="approve">Approve &amp; Save</key>
+    <key alias="approveJobOnly">Archive Job</key>
+    <key alias="reset">Reset Status</key>
+    <key alias="resetReceived">Reset To Received</key>
+    <key alias="saveReview">Save for Review</key>
+
+    <key alias="sendChoosePrefix">Choose how to translate</key>
+    <key alias="sendChooseSuffix">and any child pages</key>
+
+    <key alias="getChoosePrefix">Choose where to get translations for</key>
+
+    <key alias="translateTo">Translate to</key>
+    <key alias="translateFrom">Translate from</key>
+    <key alias="include">Pages to include</key>
+    <key alias="includeDesc">Which pages do you want to include for translation?</key>
+    
+    <key alias="includeChildren">Include child pages</key>
+    <key alias="includeUnpublished">Include unpublished pages / versions</key>
+
+    <key alias="jobOptions">Job Options</key>
+    <key alias="jobOptionsDesc">What do you want to do with the translated items?</key>
+    
+    <key alias="pagesSent">translation items have been created</key>
+    <key alias="sentMsg">All items are awaiting translation.</key>
+
+    <key alias="check">Check</key>
+
+    <key alias="removeAll">Remove All</key>
+    <key alias="selectAll">Select All</key>
+
+    <key alias="createSet">Create a set</key>
+    <key alias="createSetMsg">
+      <![CDATA[
+        <p>
+          A translation set lets you control where the content comes from,
+          and which sites it is put into, once it is translated.          
+        </p>
+      ]]>
+    </key>
+
+    <key alias="deleteSet">
+      <![CDATA[
+        <p>Are you sure you want to delete this set?</p>
+        <p>
+         Deleting a set will also remove pending translations and
+         translation jobs related to the set are you sure you want 
+         to do that?
+        </p>
+      ]]>
+    </key>
+
+    <key alias="noJobs">
+      <![CDATA[
+        <h5>No Jobs</h5>
+        <p>There are no jobs for this language.
+      ]]>
+    </key>
+
+    <key alias="noProperties">
+      <![CDATA[
+        <h5>No Properties</h5>
+        <p>This item has no properties for translation</p>
+      ]]>
+    </key>
+
+    <key alias="archiveTitle">Archived Jobs</key>
+    <key alias="archiveDesc">Completed and closed translations</key>
+
+    <key alias="opennode">
+      <![CDATA[
+        There is an open translation for this item, applying the
+        translations contained in this item may result in out of
+        date content.
+        ]]>
+    </key>
+
+    <key alias="dashboardIntro">
+      <![CDATA[
+        Translation Manager helps you manage translations of your
+        content between your sites within Umbraco.
+      ]]>
+    </key>
+
+    <key alias="dashboardPending">
+      <![CDATA[
+        Items that have been updated in the master site, which will need
+        to be translated to the languages in the other sites.    
+      ]]>
+    </key>
+
+    <key alias="providersIntro">
+      <![CDATA[
+        <h3>Translation Connectors</h3>
+        <p>
+            When a translation job is created, the request for the translation is sent to a translation
+            provider.
+        </p>
+        <p>
+            Translation providers allow you to push your translations to other third party services, save
+            them to disk or use the internal translator section to translate text within Umbraco.
+        </p>
+        <p>
+            You can add additional translation packages via the package installer or NuGet, and you can
+            develop your own providers if you need to.
+        </p>
+        <hr />
+        <a class="btn btn-default" href="http://jumoo.co.uk/tp/providers/" target="_blank">Additonal Providers</a>
+        <a class="btn btn-default" href="http://jumoo.co.uk/tp/docs/" target="_blank">Provider Documentation</a>
+      ]]>
+    </key>
+  </area>
+  <area alias="translateActions">
+    <key alias="createJob">Submit Translation Job</key>
+    <key alias="send">Send to translate</key>
+    <key alias="history">Translation status</key>
+    <key alias="get">Get translations</key>
+    <key alias="target">Translation Status</key>
+  </area>
+
+  <area alias="translateJobStatus">
+    <key alias="Created">Created</key>
+    <key alias="Submitted">Submitted</key>
+    <key alias="Partial">Partial Return</key>
+    <key alias="Received">Received</key>
+    <key alias="Accepted">Accepted</key>
+    <key alias="Closed">Closed</key>
+    <key alias="Error">Error</key>
+
+    <key alias="Reviewing">Reviewing</key>
+  </area>
+
+  <area alias="translateUpdates">
+    <key alias="properties">Properties updated.</key>
+    <key alias="propertyRemoved">Property removed.</key>
+    <key alias="setDelete">The set deleted successfully.</key>
+    <key alias="setSaved">The set was saved successfully.</key>
+  </area>
+
+  <area alias="translateHistory">
+    <key alias="translationstatus">Translation status for</key>
+    <key alias="created">Created</key>
+    <key alias="updated">Latest version</key>
+    <key alias="language">Language</key>
+    <key alias="status">Status</key>
+    <key alias="none">None</key>
+    <key alias="previous">Translations based on previous versions of this page</key>
+    <key alias="currentVersions">Current Versions</key>
+    <key alias="previousVersions">Previous Versions</key>
+  </area>
+
+  <area alias="translateSend">
+    <key alias="newPages">
+      <![CDATA[
+        <h3>New Pages</h3>
+        <p>One or more of the target sites, does not contain a matching page for this content.</p>
+        <p>Pages will be created on the target site beneath the matching parent page which does exist</p>   
+      ]]>
+    </key>
+    <key alias="missingPages">
+      <![CDATA[
+        <h3>Missing Pages</h3>
+        <p>There is no matching page or parent page for this content on one or more of the language sites</p>
+        <p>you need to go up your content tree and push translations from higher up to create the corresponding connection between the sites.</p>
+      ]]>
+    </key>
+  </area>
+
+  <area alias="translateHealthCheck">
+    <key alias="orphanCheck">Clear orphaned nodes</key>
+    <key alias="orphanTitle">Orphaned nodes</key>
+    <key alias="orphanFail">There are %0% orphaned nodes with no associated job</key>
+    <key alias="orphanPass">There are no orphaned nodes</key>
+    <key alias="orphanClean">Orphaned nodes removed</key>
+
+    <key alias="workingCheck">Clear Working Set nodes</key>
+    <key alias="workingTitle">Working Set Nodes</key>
+    <key alias="workingFail">
+      <![CDATA[
+      <p>
+        There are %0% nodes in the working set status
+      </p>
+      <p>
+        Working set nodes are created as items are being sent to translation. if the 
+        send process fails items can be left in this state
+      </p>
+      <p>
+        there is a scheduled task to clear old working set items so you shouldn't need
+        to clear them here
+      </p>
+      <p><em>check no-one is currently creating a translation job before clearing these values</em></p>
+      ]]>
+    </key>
+    <key alias="workingPass">There are no working set nodes</key>
+    <key alias="workingClean">Working items cleaned</key>
+
+    <key alias="propertyCheck">Clear orphaned properties</key>
+    <key alias="propertyTitle">Orphened properties</key>
+    <key alias="propertyFail">There are %0% orphaned properties with no associated nodes</key>
+    <key alias="propertyPass">there are no orphaned properties</key>
+    <key alias="propertyClean">Orphaned properties removed</key>
+
+    <key alias="jobCheck">Clear Broken Jobs</key>
+    <key alias="jobTitle">Broken Jobs</key>
+    <key alias="jobFail">There are %0% jobs stuck at created (not submitted)</key>
+    <key alias="jobPass">there are no broken jobs</key>
+    <key alias="jobClean">broken jobs removed</key>
+
+    <key alias="noSetCheck">Clear Nodes with no set</key>
+    <key alias="noSetTitle">Nodes missing Sets</key>
+    <key alias="noSetFail">There are %0% nodes where the translation set no longer exists (deleted?)</key>
+    <key alias="noSetPass">All Nodes have associated translation sets</key>
+    <key alias="noSetClean">Nodes with no associated set removed</key>
+  </area>
+</language>

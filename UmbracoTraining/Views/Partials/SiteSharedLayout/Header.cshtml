@@ -1,0 +1,44 @@
+﻿@using UmbracoTraining.Models
+@using Umbraco.Web.Models
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<List<NavigationItem>>
+
+@{
+    var languages = Umbraco.ContentAtRoot();
+}
+<header id="header">
+    <div class="inner">
+        <a href="/" class="logo">SCode</a>
+        <div class="languages">
+            @foreach (var language in languages)
+            {
+                var languageName = language.Value("languageName");
+                var languageFlag = language.Value("languageFlag");
+                <a class="language" href="@language.Url">
+                    @languageName
+                    <img src="@languageFlag.ToString()" height="15" width="23" />
+                </a>
+            }
+        </div>
+        <nav id="nav">
+            @RenderItems(Model)
+        </nav>
+    </div>
+</header>
+
+@helper RenderItems(List<NavigationItem> navItems)
+{
+    if (navItems != null)
+    {
+        foreach (NavigationItem item in navItems)
+        {
+            if (item.Link.Text != "EN" && item.Link.Text != "SR")
+            {
+                <span class="custom-menu-item">
+                    <a href="@item.Link.Url" target="@item.Link.Target">@item.Link.Text</a>
+                </span>
+            }
+
+        }
+    }
+}
+

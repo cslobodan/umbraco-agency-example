@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\1_d77f57131a8f4c8e826426782cb332c8.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\1_365dcefd6ee94bf094fbc6724c66c97d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\1_4a18db46cd14414491ea3a6119627e0d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_84a852a3b13e4ab2aaeaafab45413abe.cdC" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VtYnJhY29Gb3Jtcy9qcy91bWJyYWNvLmZvcm1zLmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_901ef2fbfccb44e7854c69c5411eb3a1.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_64fd1b3d12a3485880e6afe32aaa8f50.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29Gb3Jtcy9jc3MvdW1icmFjby5mb3Jtcy5jc3M7" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_f735c73f49ac4b48838610a764dc1be1.cdC" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/UmbracoForms/css/umbraco.forms.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy9jYW52YXNkZXNpZ25lci5jc3M7" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_6081fa6c10074e35b04664707f7968f1.cdC" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/assets/css/canvasdesigner.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyL2FuZ3VsYXIuanM7L3VtYnJhY28vbGliL3VuZGVyc2NvcmUvdW5kZXJzY29yZS1taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmludGVyY2VwdG9ycy5qczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_8fc1de10492a4d57b0589329416b2f73.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3NpZ25hbHIvanF1ZXJ5LnNpZ25hbFIuanM7" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_76991a6c538d42e781e6029641afb239.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/lib/signalr/jquery.signalR.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vanMvdW1icmFjby5wcmV2aWV3LmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\662823590_da65b97dd62c469da0ac4ecee550b6a8.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/js/umbraco.preview.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_74c76d640bb447d28f0254d61a69ad85.cdC" compression="gzip" version="105326501">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uQ29ubmVjdG9yLlhsaWZmL3N1Ym1pdHRlZENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uQ29ubmVjdG9yLlhsaWZmL3BlbmRpbmdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbkNvbm5lY3Rvci5YbGlmZi94bGlmZkZpbGVTZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2VydmljZXMvY3VsdHVyZVNlcnZpY2UuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9zZXJ2aWNlcy9qb2JTZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2VydmljZXMvbm9kZVNlcnZpY2UuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9zZXJ2aWNlcy9zZXRTZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2VydmljZXMvcHJvdmlkZXJTZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2VydmljZXMvc2V0dGluZ3NTZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2VydmljZXMvc3RhdHVzU2VydmljZS5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL3Jlc291cmNlcy9ub2RlTWFuYWdlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL3Jlc291cmNlcy9kaWFsb2dNYW5hZ2VyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2l0ZXBpY2tlci9waWNrZXJDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvc2l0ZXBpY2tlci9waWNrZXJEaWFsb2dDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS90bVNldHRpbmdzL3NldEVkaXRDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS90bVNldHRpbmdzL3NldERlbGV0ZUNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL3RtU2V0dGluZ3Mvc2V0c0Rhc2hib2FyZENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL3RtU2V0dGluZ3MvcHJvdmlkZXJDb25maWdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS90bVNldHRpbmdzL3NldHRpbmdzVmlld0NvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9zZXRzL3NldFNldHRpbmdzQ29udHJvbGxlci5qczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_cba4d253abca4b279b239e89f8e85ecc.cdJ" compression="gzip" version="105326501">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+      <file name="/App_Plugins/TranslationConnector.Xliff/submittedController.js" />
+      <file name="/App_Plugins/TranslationConnector.Xliff/pendingController.js" />
+      <file name="/App_Plugins/TranslationConnector.Xliff/xliffFileService.js" />
+      <file name="/App_Plugins/TranslationManager/services/cultureService.js" />
+      <file name="/App_Plugins/TranslationManager/services/jobService.js" />
+      <file name="/App_Plugins/TranslationManager/services/nodeService.js" />
+      <file name="/App_Plugins/TranslationManager/services/setService.js" />
+      <file name="/App_Plugins/TranslationManager/services/providerService.js" />
+      <file name="/App_Plugins/TranslationManager/services/settingsService.js" />
+      <file name="/App_Plugins/TranslationManager/services/statusService.js" />
+      <file name="/App_Plugins/TranslationManager/resources/nodeManager.js" />
+      <file name="/App_Plugins/TranslationManager/resources/dialogManager.js" />
+      <file name="/App_Plugins/TranslationManager/sitepicker/pickerController.js" />
+      <file name="/App_Plugins/TranslationManager/sitepicker/pickerDialogController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/tmSettings/setEditController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/tmSettings/setDeleteController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/tmSettings/setsDashboardController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/tmSettings/providerConfigController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/tmSettings/settingsViewController.js" />
+      <file name="/App_Plugins/TranslationManager/sets/setSettingsController.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_dfcb20ac13944647b7382974e8257349.cdJ" compression="gzip" version="105326501">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL1BlbmRpbmcvU3VtbWFyeVBlbmRpbmdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS9QZW5kaW5nL2xpc3RQZW5kaW5nQ29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2JhY2tvZmZpY2UvU3VibWl0dGVkL1N1bW1hcnlTdWJtaXR0ZWRDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS9TdWJtaXR0ZWQvSm9ic1N1Ym1pdHRlZENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL1JlY2VpdmVkL1N1bW1hcnlSZWNlaXZlZENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL1JlY2VpdmVkL0pvYnNSZWNlaXZlZENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9iYWNrb2ZmaWNlL0FyY2hpdmUvU3VtbWFyeUFyY2hpdmVDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS9BcmNoaXZlL0pvYnNBcmNoaXZlQ29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2JhY2tvZmZpY2UvaXRlbXMvaXRlbVZpZXdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvYmFja29mZmljZS9qb2JzL2pvYlZpZXdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvam9icy9qb2JMaXN0Vmlld0NvbXBvbmVudC5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2pvYnMvY3JlYXRlRGlhbG9nQ29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2l0ZW1zL2l0ZW1MaXN0Vmlld0NvbXBvbmVudC5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2l0ZW1zL2l0ZW1TdGF0dXNWaWV3Q29tcG9uZW50LmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvaXRlbXMvaXRlbVNldFZpZXdDb21wb25lbnQuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9zZXR0aW5ncy9kaWFnbm9zdGljc0NvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9hcHAvY29udGVudEFwcENvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9hcHAvY3JlYXRlRGlhbG9nQ29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2FwcC9kaWN0aW9uYXJ5RGlhbG9nQ29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVHJhbnNsYXRpb25NYW5hZ2VyL2FwcC90cmFuc2xhdGVXb3JkQ291bnRDb21wb25lbnQuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9jb21wb25lbnRzL2xhbmd1YWdlUGlja2VyLmpzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_96e0d5c0fcfa42ab97d0c8a2edcebb28.cdJ" compression="gzip" version="105326501">
+    <files>
+      <file name="/App_Plugins/TranslationManager/backoffice/Pending/SummaryPendingController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Pending/listPendingController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Submitted/SummarySubmittedController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Submitted/JobsSubmittedController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Received/SummaryReceivedController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Received/JobsReceivedController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Archive/SummaryArchiveController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/Archive/JobsArchiveController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/items/itemViewController.js" />
+      <file name="/App_Plugins/TranslationManager/backoffice/jobs/jobViewController.js" />
+      <file name="/App_Plugins/TranslationManager/jobs/jobListViewComponent.js" />
+      <file name="/App_Plugins/TranslationManager/jobs/createDialogController.js" />
+      <file name="/App_Plugins/TranslationManager/items/itemListViewComponent.js" />
+      <file name="/App_Plugins/TranslationManager/items/itemStatusViewComponent.js" />
+      <file name="/App_Plugins/TranslationManager/items/itemSetViewComponent.js" />
+      <file name="/App_Plugins/TranslationManager/settings/diagnosticsController.js" />
+      <file name="/App_Plugins/TranslationManager/app/contentAppController.js" />
+      <file name="/App_Plugins/TranslationManager/app/createDialogController.js" />
+      <file name="/App_Plugins/TranslationManager/app/dictionaryDialogController.js" />
+      <file name="/App_Plugins/TranslationManager/app/translateWordCountComponent.js" />
+      <file name="/App_Plugins/TranslationManager/components/languagePicker.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci90cmFuc2xhdGlvbk1hbmFnZXIuY3NzOy9BcHBfUGx1Z2lucy9VbWJyYWNvRm9ybXMvY3NzL3VtYnJhY28uZm9ybXMuY3NzOw" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_e6d8434b098145f6bfc62d1219e154d0.cdC" compression="gzip" version="105326501">
+    <files>
+      <file name="/App_Plugins/TranslationManager/translationManager.css" />
+      <file name="/App_Plugins/UmbracoForms/css/umbraco.forms.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9jb21wb25lbnRzL2pvYk9wdGlvbnNDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvY29tcG9uZW50cy9wcm92aWRlclZpZXdDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvY29tcG9uZW50cy92YWx1ZVZpZXcuanM7L0FwcF9QbHVnaW5zL1RyYW5zbGF0aW9uTWFuYWdlci9kYXNoYm9hcmRDb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9UcmFuc2xhdGlvbk1hbmFnZXIvdHJhbnNsYXRlSHViLmpzOy9BcHBfUGx1Z2lucy9VbWJyYWNvRm9ybXMvanMvdW1icmFjby5mb3Jtcy5qczs" file="C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\UmbracoTraining\UmbracoTraining\UmbracoTraining\App_Data\TEMP\ClientDependency\105326501_abec0b0725b34aea90934f0602f820e4.cdJ" compression="gzip" version="105326501">
+    <files>
+      <file name="/App_Plugins/TranslationManager/components/jobOptionsController.js" />
+      <file name="/App_Plugins/TranslationManager/components/providerViewController.js" />
+      <file name="/App_Plugins/TranslationManager/components/valueView.js" />
+      <file name="/App_Plugins/TranslationManager/dashboardController.js" />
+      <file name="/App_Plugins/TranslationManager/translateHub.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+    </files>
+  </item>
+</map>

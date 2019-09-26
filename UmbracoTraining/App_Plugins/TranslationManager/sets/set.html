@@ -1,0 +1,121 @@
+﻿<div ng-controller="translate.setSettingsController as vm">
+    <umb-load-indicator ng-if="model.loading"></umb-load-indicator>
+
+    <div ng-if="!model.loading">
+        <umb-box ng-if="model.validationMsg.length > 0" class="tm-box-alert-danger">
+            <umb-box-header title="Set not valid"></umb-box-header>
+            <umb-box-content>
+                {{model.validationMsg}}
+            </umb-box-content>
+        </umb-box>
+
+        <umb-box ng-if="model.isLoopback"
+                 class="tm-box-alert-info">
+            <umb-box-header title="Circular Translation set"></umb-box-header>
+            <umb-box-content>
+                The Master and Target sites are the same. Translated Content will
+                be placed back into the master content nodes.
+                <strong>Only use this mode if you are using variants for your language content</strong>
+            </umb-box-content>
+        </umb-box>
+    </div>
+
+
+    <div class="flex" ng-if="!model.loading">
+
+        <div class="umb-package-details__main-content">
+            <umb-box>
+                <umb-box-header title="Sites"></umb-box-header>
+                <umb-box-content>
+                    <umb-control-group label="Master"
+                                       description="Root of the master site for all translations">
+                        <umb-property-editor model="model.masterPicker" />
+                    </umb-control-group>
+
+                    <umb-control-group label="Sites"
+                                       description="Sites where languages will be translated">
+                        <umb-property-editor model="model.sitePicker" />
+                    </umb-control-group>
+                </umb-box-content>
+            </umb-box>
+            <umb-box>
+                <umb-box-header title="Properties"></umb-box-header>
+                <umb-box-content>
+
+                    <umb-control-group label="Translate Node Name"
+                                       description="Include the Nodename as a property to translate">
+                        <umb-toggle checked="model.set.TranslateNodeName"
+                                    on-click="model.set.TranslateNodeName = !model.set.TranslateNodeName"></umb-toggle>
+                    </umb-control-group>
+
+                    <umb-control-group label="Properties"
+                                       description="Comma seperated list of properties: '*' will include all; '-name' will exclude">
+                        <input type="text"
+                               ng-model="model.set.Properties"
+                               class="umb-textstring umb-property-editor" />
+                        <div ng-if="model.isLoopback">
+                            <small class="muted">
+                                Only properites marked <span class="tm-vary-by-box">
+                                    <i class="icon-shuffle umb-group-builder__property-tag-icon"></i>
+                                    <localize key="contentTypeEditor_variantsHeading" class="ng-isolate-scope">Allow varying by culture</localize>
+                                </span>
+                                will be included
+                            </small>
+                        </div>
+                    </umb-control-group>
+
+                    <umb-control-group label="Ignore Doctypes"
+                                       description="Comma seperated list of doctypes not to include">
+                        <input type="text"
+                               ng-model="model.set.IgnoreDocTypes"
+                               class="umb-textstring umb-property-editor" />
+                    </umb-control-group>
+                </umb-box-content>
+            </umb-box>
+        </div>
+        <div class="umb-package-details__sidebar">
+            <umb-box>
+                <umb-box-header title="Connector"></umb-box-header>
+                <umb-box-content>
+                    <umb-control-group label="Default Connector"
+                                       description="Select a connector to use for all translation jobs (blank will give the editor a choice of installed providers)">
+
+                        <select ng-model="model.set.ProviderKey"
+                                class="umb-property-editor umb-dropdown">
+                            <option value="00000000-0000-0000-0000-000000000000"
+                                    ng-selected="model.set.ProviderKey == '00000000-0000-0000-0000-000000000000'">
+                                Select Connector
+                            </option>
+                            <option ng-repeat="p in model.providers"
+                                    value="{{p.Key}}"
+                                    ng-selected="model.Set.ProviderKey == p.Key">
+                                {{p.Name}}
+                            </option>
+                        </select>
+                    </umb-control-group>
+                </umb-box-content>
+            </umb-box>
+            <umb-box class="tm-provider-options">
+                <umb-box-header title="Actions"></umb-box-header>
+                <umb-box-content>
+                    <umb-control-group label="Copy on Create"
+                                       description="Create copies of master content in other languages when it is created"
+                                       ng-if="!model.isLoopback">
+                        <umb-toggle checked="model.set.CopyOnCreate"
+                                    on-click="model.set.CopyOnCreate = !model.set.CopyOnCreate"></umb-toggle>
+                    </umb-control-group>
+                    <umb-control-group label="Create and Send Translations"
+                                       description="Allow editors to create and send translations in one step (bypassing the pending queue)">
+                        <umb-toggle checked="model.set.AutoSend"
+                                    on-click="model.set.AutoSend = !model.set.AutoSend"></umb-toggle>
+                    </umb-control-group>
+                    <umb-control-group label="Automatic Approval"
+                                       description="When a translation is complete automatically approve content">
+                        <umb-toggle checked="model.set.AutoApprove"
+                                    on-click="model.set.AutoApprove = !model.set.AutoApprove"></umb-toggle>
+                    </umb-control-group>
+                </umb-box-content>
+            </umb-box>
+        </div>
+    </div>
+</div>

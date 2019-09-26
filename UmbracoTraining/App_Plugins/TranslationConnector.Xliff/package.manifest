@@ -1,0 +1,7 @@
+{
+  "javascript": [
+    "~/App_Plugins/TranslationConnector.Xliff/submittedController.js",
+    "~/App_Plugins/TranslationConnector.Xliff/pendingController.js",
+    "~/App_Plugins/TranslationConnector.Xliff/xliffFileService.js"
+  ]
+}

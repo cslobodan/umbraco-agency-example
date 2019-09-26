@@ -1,0 +1,27 @@
+﻿@inherits UmbracoViewPage
+<section id="two">
+    <div class="inner">
+        <article>
+            <div class="content">
+                <header>
+                    <h3>@Umbraco.AssignedContentItem.Value("implementationTitle")</h3>
+                </header>
+                <div class="image fit">
+                    <img src="@Umbraco.AssignedContentItem.Value("implementationPicture")" alt="" />
+                </div>
+                <p>@Umbraco.AssignedContentItem.Value("implementationBody")</p>
+            </div>
+        </article>
+        <article class="alt">
+            <div class="content">
+                <header>
+                    <h3>@Umbraco.AssignedContentItem.Value("migrationTitle")</h3>
+                </header>
+                <div class="image fit">
+                    <img src="@Umbraco.AssignedContentItem.Value("migrationPicture")" alt="" />
+                </div>
+                <p>@Umbraco.AssignedContentItem.Value("migrationBody")</p>
+            </div>
+        </article>
+    </div>
+</section>

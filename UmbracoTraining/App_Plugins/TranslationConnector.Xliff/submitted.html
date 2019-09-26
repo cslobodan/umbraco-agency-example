@@ -1,0 +1,40 @@
+﻿<div ng-controller="xliffSubmittedController as pvm">
+    <umb-box class="form-horizontal">
+        <umb-box-header title="Xliff Connector"></umb-box-header>
+        <umb-box-content>
+            <umb-control-group label="Source file"
+                               description="Translation file containing source values">
+                <a href="{{pvm.properties.fileLocation}}" target="_blank" class="btn btn-success">Download File</a>
+                <em>{{pvm.properties.fileLocation}}</em>
+            </umb-control-group>
+
+            <umb-control-group label="File"
+                               description="File to upload">
+                <input type="file"
+                       accept=".xml,.xliff,.xlf"
+                       ng-model="pvm.files"
+                       umb-file-upload
+                       ngf-select
+                       ngf-multiple="false" 
+                       id="xlifffilepicker"
+                       class="tm-file-upload"/>
+                
+                <label for="xlifffilepicker" class="btn btn-default tm-file-upload-btn">Select File</label>
+
+                <span ng-if="pvm.file !== undefined">
+                    <umb-button action="pvm.uploadFile()"
+                                type="button"
+                                button-style="action"
+                                state="pvm.buttonState"
+                                label-key="translate_upload">
+                    </umb-button>
+                    {{pvm.file.name}}
+                </span>
+            </umb-control-group>
+
+            <div ng-if="pvm.uploadError" class="alert alert-danger">
+                {{pvm.errorMessage}}
+            </div>
+        </umb-box-content>
+    </umb-box>
+</div>

@@ -1,0 +1,1 @@
+{"@t":"2019-09-24T18:39:44.0662773Z","@mt":"{LogPrefix} Tasks {TaskStatus}, terminated","LogPrefix":"[ScheduledTasks] ","TaskStatus":"completed","SourceContext":"Umbraco.Web.Scheduling.BackgroundTaskRunner","ProcessId":12920,"ProcessName":"w3wp","ThreadId":79,"AppDomainId":5,"AppDomainAppId":"LMW3SVC3ROOT","MachineName":"SCVETKOVIC","Log4NetLevel":"INFO "}

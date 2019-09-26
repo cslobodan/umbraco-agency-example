@@ -1,0 +1,26 @@
+﻿@inherits UmbracoViewPage
+<section id="footer">
+    <div class="inner">
+        <header>
+            <h2>@Umbraco.AssignedContentItem.Value("contactFormLabelTitle")</h2>
+        </header>
+        @using (Html.BeginUmbracoForm("HandleSubmit", "ContactForm", FormMethod.Post))
+        {
+            <div class="field half first">
+                <label for="name">@Umbraco.AssignedContentItem.Value("contactFormLabelName")</label>
+                <input type="text" name="name" id="name" required />
+            </div>
+            <div class="field half">
+                <label for="email">@Umbraco.AssignedContentItem.Value("contactFormLabelEmail")</label>
+                <input type="email" name="email" id="email" required />
+            </div>
+            <div class="field">
+                <label for="message">@Umbraco.AssignedContentItem.Value("contactFormLabelMessage")</label>
+                <textarea name="message" id="message" rows="6" required></textarea>
+            </div>
+            <ul class="actions">
+                <li><input type="submit" value="@Umbraco.AssignedContentItem.Value("contactFormLabelButton")" class="alt" /></li>
+            </ul>
+        }
+    </div>
+</section>
