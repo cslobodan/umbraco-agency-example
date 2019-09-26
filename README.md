@@ -1,4 +1,4 @@
-# Todo Application
+# Umbraco Application for Web development Agency
 
 Simple Web application built with Umbraco 8. Main features are content management in two languages and contact form logic which uses Gmail SMTP for sending out e-mails.
 
