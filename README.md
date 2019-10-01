@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Build the solution to install dependencies
 3. Database connection string can be updated in Web.config file
 5. Run the application
-6. You will have set up Umbraco
+6. You will have to set up Umbraco
  
 ## Built With
 
