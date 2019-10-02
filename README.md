@@ -27,9 +27,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- .NET Framework [https://dotnet.microsoft.com/download/dotnet-framework/]
-- Microsoft SQL Server Express [https://www.microsoft.com/en-us/sql-server/sql-server-editions-express]
-- Visual Studio IDE [https://visualstudio.microsoft.com/vs/]
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/)
+- [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+- [Visual Studio IDE](https://visualstudio.microsoft.com/vs/)
 
 ### Installing Backend
 
@@ -37,13 +37,13 @@ These instructions will get you a copy of the project up and running on your loc
 2. Build the solution to install dependencies
 3. Database connection string can be updated in Web.config file
 5. Run the application
-6. You will have to set up Umbraco
+6. Set up Umbraco
  
 ## Built With
 
-* .NET Framework [https://dotnet.microsoft.com/download/dotnet-framework/] - The web framework used for exposing APIs
-* Umbraco 8 [https://our.umbraco.com/download/] - For content management
+* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/)
+* [Umbraco 8](https://our.umbraco.com/download/)
 
 ## Authors
 
-<a href="#" onclick='window.open("https://github.com/slobodanc93");return false;'>Slobodan Cvetković</a>
+[Slobodan Cvetković](https://github.com/slobodanc93)
