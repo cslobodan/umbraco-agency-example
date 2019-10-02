@@ -46,4 +46,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-<a href="https://github.com/slobodanc93" target="_blank">Slobodan Cvetković</a>
+<a href="#" onclick='window.open("https://github.com/slobodanc93");return false;'>Slobodan Cvetković</a>
