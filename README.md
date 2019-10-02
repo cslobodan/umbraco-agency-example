@@ -46,4 +46,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-Slobodan Cvetkovic [https://github.com/slobodanc93]
+<a href="https://github.com/slobodanc93" target="_blank">Slobodan Cvetković</a>
